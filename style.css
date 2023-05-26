@@ -1,8 +1,16 @@
+#wealth {
+    text-align: center;
+    position: relative;
+    left: 25%;
+    
+    
+}
+
 .class1 {
 border: dashed;
 background-color: rgb(197, 210, 215);
-margin-left: 450px;
-margin-right: 450px;
+height: 100%;
+width: 50%;
 margin-top: 30px;
 font-family: tahoma;
 
@@ -39,8 +47,8 @@ font-family: tahoma;
     margin-top: 20px;
 }
 .class5 {
-    margin-bottom: 30px;
-    margin-top: 30px;
+   margin-top: 30px; 
+   margin-bottom: 30px;
     
     
 }
