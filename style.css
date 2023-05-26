@@ -1,8 +1,5 @@
 #wealth {
     text-align: center;
-    position: relative;
-    left: 25%;
-    
     
 }
 
@@ -10,7 +7,7 @@
 border: dashed;
 background-color: rgb(197, 210, 215);
 height: 100%;
-width: 50%;
+width: 100%;
 margin-top: 30px;
 font-family: tahoma;
 
